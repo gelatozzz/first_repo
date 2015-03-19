@@ -1,0 +1,26 @@
+.purple {
+	color: purple;
+}
+
+p {
+	font-family: arial;
+	color: #8000ff;
+	line-height: 2.5 ;
+	background-color: #c4d4ff;
+}
+
+header {
+	padding-top: 2 px;
+	padding-right: 3 px;
+	padding-bottom: 4 px;
+	padding-left: 2 px;
+	margin-top: -200 px;
+
+}
+
+#bucket-list-header {
+	text-align: left;
+}
+header h1 {
+	font-size: 1.2em;
+}
